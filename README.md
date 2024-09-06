@@ -2,6 +2,8 @@
 
 🎉Welcome to my Flipkart clone!🎉 This project is a Flipkart clone built using HTML, CSS, and JavaScript. 🌐✨
 
+Project Demo: https://nidhiupman568.github.io/FLIPKART-CLONE/
+
 ## 📜 Description 📜
 
 The Flipkart clone is a static website replicating the basic functionality of the Flipkart website. 🛍️ It includes features such as adding products to the cart, removing products from the cart, increasing the quantity of products in the cart, and searching for products. 🔍🛒
